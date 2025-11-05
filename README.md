@@ -1,6 +1,6 @@
 # Prova de Conceito (POC) & Benchmark de Modelos SLM
 
-[![Abrir Dossiê]](dossie/dossie-de-pesquisa.pdf)
+[Abrir Dossiê](dossie/dossie-de-pesquisa.pdf)
 
 Este repositório contém dois scripts principais que demonstram a integração entre **OCR (Reconhecimento Óptico de Caracteres)**, **RAG (Retrieval-Augmented Generation)** e **SLMs (Small Language Models)** para análise de documentos e avaliação de desempenho. Além de uma pasta com os benchmarks do Dossiê de Pesquisa.
 
