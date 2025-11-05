@@ -71,7 +71,7 @@ Após isso, mude no Código o caminho para seu executável Tesseract, ou adicion
 
 CASO 1:
 
-Embora o resultado esteja incorreto, no dossiê foi comentado como conseguir utilizer o Tesseract juntamente de melhorias de imagem para extrair corretamente as informações
+Embora o resultado esteja incorreto, no dossiê foi comentado como conseguir utilizar o Tesseract juntamente de melhorias de imagem para extrair corretamente as informações
 
 ![Caso 1](imgs/cnh.png)
 
