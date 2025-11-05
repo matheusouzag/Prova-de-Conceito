@@ -1,6 +1,6 @@
 # Prova de Conceito (POC) & Benchmark de Modelos SLM
 
-[![Abrir Dossiê]](t4h/dossie/dossie-de-pesquisa.pdf)
+[![Abrir Dossiê]](dossie/dossie-de-pesquisa.pdf)
 
 Este repositório contém dois scripts principais que demonstram a integração entre **OCR (Reconhecimento Óptico de Caracteres)**, **RAG (Retrieval-Augmented Generation)** e **SLMs (Small Language Models)** para análise de documentos e avaliação de desempenho. Além de uma pasta com os benchmarks do Dossiê de Pesquisa.
 
@@ -58,10 +58,10 @@ Após isso executar este comando para instalação local: `ollama pull *nome do 
 Para instalação do Tesseract OCR, é necessário sua instalação por meio deste link: https://github.com/UB-Mannheim/tesseract/wiki.
 
 Durante a Instalação, importante marcar a opção para permitir PT-BR.
-![Linguagem PT-BR](t4h/imgs/ocr1.png)
+![Linguagem PT-BR](imgs/ocr1.png)
 
 Após isso, mude no Código o caminho para seu executável Tesseract, ou adicione no PATH de seu computador.
-![PATH](t4h/imgs/ocr2.png)
+![PATH](imgs/ocr2.png)
 
 ### Resultados
 
@@ -69,19 +69,19 @@ CASO 1:
 
 Embora o resultado esteja incorreto, no dossiê foi comentado como conseguir utilizer o Tesseract juntamente de melhorias de imagem para extrair corretamente as informações
 
-![Caso 1](t4h/imgs/cnh.png)
+![Caso 1](imgs/cnh.png)
 
 CASO 2:
 
 Neste caso 2, foi instruído para o modelo criar 10 perguntas juntamente de suas respostas, com base no PDF selecionado, utilizando RAG.
 
-![Caso 2](t4h/imgs/caso2.png)
+![Caso 2](imgs/caso2.png)
 
 CASO 3:
 
 Neste caso 3, podemos observer que está sendo possível a extração de dados utilizando OCR, sendo necessário apenas melhorias de imagem para melhor entendimento. O formato JSON foi inspirado na API da Tech4Humans passada no PDF do Desafio.
 
-![Caso 3](t4h/imgs/fatura.png)
+![Caso 3](imgs/fatura.png)
 
 
 
