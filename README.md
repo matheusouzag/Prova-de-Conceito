@@ -58,9 +58,13 @@ Após isso executar este comando para instalação local: `ollama pull *nome do 
 Para instalação do Tesseract OCR, é necessário sua instalação por meio deste link: https://github.com/UB-Mannheim/tesseract/wiki.
 
 Durante a Instalação, importante marcar a opção para permitir PT-BR.
-![Linguagem PT-BR](imgs/ocr1.png)
+
+<p align="left">
+  <img src="imgs/ocr1.png" alt="Linguagem PT-BR" width="400">
+</p>
 
 Após isso, mude no Código o caminho para seu executável Tesseract, ou adicione no PATH de seu computador.
+
 ![PATH](imgs/ocr2.png)
 
 ### Resultados
