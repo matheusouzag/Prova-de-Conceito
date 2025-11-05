@@ -83,7 +83,7 @@ Neste caso 2, foi instruído para o modelo criar 10 perguntas juntamente de suas
 
 CASO 3:
 
-Neste caso 3, podemos observer que está sendo possível a extração de dados utilizando OCR, sendo necessário apenas melhorias de imagem para melhor entendimento. O formato JSON foi inspirado na API da Tech4Humans passada no PDF do Desafio.
+Neste caso 3, podemos observar que está sendo possível a extração de dados utilizando OCR, sendo necessário apenas melhorias de imagem para melhor entendimento. O formato JSON foi inspirado na API da Tech4Humans passada no PDF do Desafio.
 
 ![Caso 3](imgs/fatura.png)
 
